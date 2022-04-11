@@ -1,15 +1,20 @@
 {
-  "name": "projeto-1",
+  "name": "turismo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-  "sass": "sass --no-source-map --watch assets/sass:assets/css-final"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marias-turismos/marias-turismos.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "sass": "^1.49.10"
-  }
+  "bugs": {
+    "url": "https://github.com/marias-turismos/marias-turismos.github.io/issues"
+  },
+  "homepage": "https://github.com/marias-turismos/marias-turismos.github.io#readme"
 }
